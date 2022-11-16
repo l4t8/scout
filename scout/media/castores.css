@@ -1,0 +1,21 @@
+.titulounidades{
+    margin-left: 43%;
+    margin-right: auto;
+    color: orange;
+    font-size: 50px;
+    font-weight: 1000;
+    margin-top: 25px;
+}
+
+.firstext{
+    
+    flex-direction: row;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.firstimage{
+    flex-direction: row;
+}
